@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on DevOps 
 - 📫 How to reach me ...
-![logo](https://github.com/annfelix/annfelix/blob/main/WhatsApp%20Image%202022-11-24%20at%2020.23.27.jpg)
+
 <h1 align="center">Hi 👋, I'm Joji Babu</h1>
 <h3 align="center"> Passionate About DevOps</h3>
 
+![joji](https://user-images.githubusercontent.com/124415213/231696245-5bed5dc7-1f15-4e13-a4f6-90e666934579.jpg)
