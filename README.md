@@ -1,4 +1,4 @@
- <img align="right" alt="coding" width="250" width=0 src="https://user-images.githubusercontent.com/124415213/231696245-5bed5dc7-1f15-4e13-a4f6-90e666934579.jpg"> 
+ <img align="right" alt="coding" width="250" width=0 src="profile](https://user-images.githubusercontent.com/124415213/232228511-5f7e6c1f-b1cf-42c3-831d-d82c4a72bcc2.jpg"> 
  
 <h1 align="center">Hi 👋, I'm <b>Joji Babu</b></h1>
 <h3 align="center"> Passionate About <b>DevOps</b></h3>
