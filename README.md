@@ -1,4 +1,4 @@
- <img align="right" alt="coding" width="325" height=300 src="https://user-images.githubusercontent.com/124415213/232228511-5f7e6c1f-b1cf-42c3-831d-d82c4a72bcc2.jpg"> 
+ <img align="right" alt="coding" width="325" height=350 src="https://user-images.githubusercontent.com/124415213/232228511-5f7e6c1f-b1cf-42c3-831d-d82c4a72bcc2.jpg"> 
  
 <h1 align="center">Hi 👋, I'm <b>Joji Babu</b></h1>
 <h3 align="center"> Passionate About <b>DevOps</b></h3>
@@ -16,11 +16,10 @@
 
 <p><a href="https://www.buymeacoffee.com/totaldevops"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="totaldevops" /></a></p><br><br>
 
-
+<hr>
  <!-- [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://www.buymeacoffee.com/totaldevops) -->
 
 
- <img align="center" alt="coding" width="800" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
 
 - 📝 I regularly write articles on [medium](https://medium.com/@AnnAfame)
 
@@ -61,6 +60,7 @@
 
 </p>
 
+ <img align="center" alt="coding" width="1000" heigth="900" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jojibab&show_icons=true&locale=en" alt="jojibab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jojibab&" alt="jojibab" /></p>
@@ -70,3 +70,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojibabu" alt="jojibab" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jojibab_u" target="blank"><img src="https://img.shields.io/twitter/follow/jojibab?logo=twitter&style=for-the-badge" alt="jojibab" /></a> </p>
+
+
