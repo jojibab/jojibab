@@ -14,14 +14,14 @@
 [![YouTube](https://img.shields.io/badge/YouTube--blue?style=social&logo=YouTube)](https://www.youtube.com/@jojibab_u)
 [![Twitter](https://img.shields.io/badge/telegram--blue?style=social&logo=Telegram)](https://t.me/u_cant_find)
 
-<p><a href="https://www.buymeacoffee.com/totaldevops"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="totaldevops" /></a></p><br><br>
+<!-- <p><a href="https://www.buymeacoffee.com/totaldevops"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="totaldevops" /></a></p><br><br> -->
 
 <hr>
  <!-- [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://www.buymeacoffee.com/totaldevops) -->
 
 
 
-- 📝 I regularly write articles on [medium](https://medium.com/@AnnAfame)
+ - 📝 I regularly write articles on  <!-- [medium](https://medium.com/@AnnAfame) -->
 
 - 💬 Ask me about **AWS, DevOps, Azure & Microservices**
 
@@ -42,7 +42,6 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/beats/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/e/70/elastic-beats.svg" alt="elactic" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" alt="elactic" width="40" height="40"/> </a>
@@ -57,6 +56,7 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" alt="apache" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 
 </p>
 
@@ -70,5 +70,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojibabu" alt="jojibab" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jojibab_u" target="blank"><img src="https://img.shields.io/twitter/follow/jojibab?logo=twitter&style=for-the-badge" alt="jojibab" /></a> </p>
+
+
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/totaldevops"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="totaldevops" /></a></p><br><br>
 
 
