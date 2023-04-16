@@ -35,25 +35,26 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376353/terraform.svg" alt="terraform" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373429/ansible.svg" alt="Ansible" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/beats/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/e/70/elastic-beats.svg" alt="elactic" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" alt="elactic" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/logstash/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/elastic-logstash-logo-EC5646BB13-seeklogo.com.png" alt="logstash" width="50" height="50"/> </a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png" alt="azuredevops" width="50" height="50"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376353/terraform.svg" alt="terraform" width="40" height="40"/> </a>
 <a href="https://www.redhat.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" alt="RedHat" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubuntu" width="40" height="40"/> </a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373429/ansible.svg" alt="Ansible" width="40" height="40"/> </a>
 <a href="https://www.hashicorp.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448465/hashicorp.svg" alt="HashiCorp" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" alt="apache" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
@@ -75,6 +76,6 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/totaldevops"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="totaldevops" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/jojibabu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="totaldevops" /></a></p><br><br>
 
 
