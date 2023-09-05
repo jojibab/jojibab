@@ -5,14 +5,14 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Twitter](https://img.shields.io/badge/Twitter--blue?style=social&logo=Twitter)](https://twitter.com/Jojibab_u)
+#[![Twitter](https://img.shields.io/badge/Twitter--blue?style=social&logo=Twitter)](https://twitter.com/Jojibab_u)
 [![LinkedIN](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jojibabu)
-[![Linkedin Followers](https://img.shields.io/badge/Facebook--blue?style=social&logo=Facebook)](https://www.linkedin.com/in/jojibabu)
+#[![Linkedin Followers](https://img.shields.io/badge/Facebook--blue?style=social&logo=Facebook)](https://www.linkedin.com/in/jojibabu)
 
-[![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/jojibab)
-[![Instagram](https://img.shields.io/badge/Instagram-45k-blue?style=social&logo=Instagram)](https://www.instagram.com/jojibab_u/)
-[![YouTube](https://img.shields.io/badge/YouTube--blue?style=social&logo=YouTube)](https://www.youtube.com/@jojibab_u)
-[![Twitter](https://img.shields.io/badge/telegram--blue?style=social&logo=Telegram)](https://t.me/u_cant_find)
+#[![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/jojibab)
+#[![Instagram](https://img.shields.io/badge/Instagram-45k-blue?style=social&logo=Instagram)](https://www.instagram.com/jojibab_u/)
+#[![YouTube](https://img.shields.io/badge/YouTube--blue?style=social&logo=YouTube)](https://www.youtube.com/@jojibab_u)
+#[![Twitter](https://img.shields.io/badge/telegram--blue?style=social&logo=Telegram)](https://t.me/u_cant_find)
 
 <!-- <p><a href="https://www.buymeacoffee.com/totaldevops"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="totaldevops" /></a></p><br><br> -->
 
